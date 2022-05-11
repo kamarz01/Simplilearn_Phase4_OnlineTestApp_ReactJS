@@ -1,0 +1,34 @@
+{
+  "questions": [
+    {
+      "qId": "1",
+      "question": "What is the result of 1+1",
+      "options": ["1","2","3","4"],
+      "correctOption": 2
+    },
+    {
+      "qId": "2",
+      "question": "What is the missing char GREE* in that color?",
+      "options": ["A","B","C","N"],
+      "correctOption": 4
+    },
+    {
+      "qId": "3",
+      "question": "How many moon belongs to earth?",
+      "options": ["One","Two","Three","Four"],
+      "correctOption": 1
+    },
+    {
+      "qId": "4",
+      "question": "Complete: United States of ...",
+      "options": ["Canada","India","America","Egypt"],
+      "correctOption": 3
+    },
+    {
+      "qId": "5",
+      "question": "What is the opposite of black?",
+      "options": ["White","Green","Black","Red"],
+      "correctOption": 1
+    }
+  ]
+}
